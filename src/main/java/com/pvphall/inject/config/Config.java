@@ -29,18 +29,12 @@ import java.util.List;
 public class Config {
 
     private List<String> injects;
-    private List<String> injectDeps;
 
-    public Config(List<String> injects, List<String> injectDeps) {
+    public Config(List<String> injects) {
         this.injects = injects;
-        this.injectDeps = injectDeps;
     }
 
     public List<String> getInjects() {
         return this.injects;
-    }
-
-    public List<String> getInjectDeps() {
-        return this.injectDeps;
     }
 }
