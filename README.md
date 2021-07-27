@@ -23,4 +23,4 @@
 - [License](#license)
 
 ## License
-Vine is licenced under [MIT](https://choosealicense.com/licenses/mit/) license.
+Inject is licenced under [MIT](https://choosealicense.com/licenses/mit/) license.
